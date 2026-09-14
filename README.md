@@ -15,7 +15,7 @@ A responsive landing page for E-Cell BITS Hyderabad's "From Idea to Impact" even
 
 ## How to run
 
-Just open `index.html` in your browser. No installation needed, no dependencies.
+[Click here on the link](https://pratham5953.github.io/E-Cell-Tech-Team/) or just open `index.html` in your browser from the files
 
 
 ## Notes
