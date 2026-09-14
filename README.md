@@ -21,3 +21,4 @@ A responsive landing page for E-Cell BITS Hyderabad's "From Idea to Impact" even
 ## Notes
 
 The information about the speakers can be obtained through Linkedin by clicking on the cards. Form doesn't connect to a backend - it's frontend validation only.
+Users can visit E-Cell instagram and official website through the buttons at bottom of page.
